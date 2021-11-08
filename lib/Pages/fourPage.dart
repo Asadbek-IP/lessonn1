@@ -11,6 +11,8 @@ class _FourPageState extends State<FourPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child:Text('Bu 4 chi oyna'),
+        child:Text('Yangi soz'),
+    ),
+    );
   }
 }
